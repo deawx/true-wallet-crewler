@@ -30,8 +30,6 @@ function get_retport()
 
 ตัวอย่างข้อมูลที่ได้จาก get_transactions()
 
-Array
-(
     [0] => stdClass Object
         (
             [reportID] => 29013674
@@ -99,7 +97,7 @@ Array
       .
       .
       .
-)
+
 
 ตัวอย่างข้อมูลที่ได้จาก get_report()
 
